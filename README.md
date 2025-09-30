@@ -1,6 +1,6 @@
 # Bienvenido a Mi Portafolios. 
 
-**¡Hola!** Mi nombre es **Ignacio Millán Ledesma** y soy un apasionado de la tecnología, la seguridad informática y el aprendizaje continuo.
+**¡Hola!** Mi nombre es **Ignacio Millán Ledesma** y soy un apasionado de la Tecnología, la Seguridad Informática y el aprendizaje continuo.
 
 Cuento con una sólida formación técnica, siendo:
 
