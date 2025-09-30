@@ -8,6 +8,6 @@ Cuento con una sólida formación técnica, siendo:
 - **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR).**
 - **Técnico en Sistemas Microinformáticos y Redes (SMR).**
 
-Actualmente, me encuentro preparándome para las oposiciones de TAI (Técnico Auxiliar de Informática), con el objetivo de seguir desarrollándome profesionalmente en el ámbito público y aportar mi conocimiento al servicio de la administración.
+Actualmente, me encuentro **preparándome para las oposiciones de TAI (Técnico Auxiliar de Informática)**, con el objetivo de seguir desarrollándome profesionalmente en el ámbito público y aportar mi conocimiento al servicio de la administración.
 
 Puedes acceder a él y verlo en la web haciendo click [aquí](https://peseta05.github.io/Mi-Portafolios).
