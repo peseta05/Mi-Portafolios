@@ -4,7 +4,7 @@
 
 Cuento con una sólida formación técnica, siendo:
 
-- **Especialista en Ciberseguridad en Entornos de las Tecnologías de la Información.**
+- **Especialista en Ciberseguridad en Entornos de las Tecnologías de la Información (CETI).**
 - **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR).**
 - **Técnico en Sistemas Microinformáticos y Redes (SMR).**
 
