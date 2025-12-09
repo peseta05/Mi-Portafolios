@@ -1,6 +1,6 @@
 # Bienvenido a Mi Portafolios. 
 
-**¡Hola!** Mi nombre es **Ignacio Millán Ledesma** y soy un apasionado de la Tecnología, la Seguridad Informática y el aprendizaje continuo.
+**¡Hola!** Mi nombre es **Ignacio Millán Ledesma** y soy un apasionado de la Tecnología, la ciberseguridad y el aprendizaje continuo.
 
 Cuento con una sólida formación técnica, siendo:
 
@@ -17,6 +17,6 @@ Además, cuento con formación complementaria certificada, incluyendo:
 - **MTA 98-367 Security Fundamentals (Microsoft).**
 - ...y otras formaciones que refuerzan mis conocimientos en entornos TI.
 
-Actualmente, me encuentro **preparándome para las oposiciones de TAI (Técnico Auxiliar de Informática)**, con el objetivo de seguir desarrollándome profesionalmente en el ámbito público y aportar mi conocimiento al servicio de la administración.
+Actualmente, me encuentro **preparándome para las oposiciones de TAI (Técnico Auxiliar de Informática)**, con el objetivo de seguir desarrollándome profesionalmente en el ámbito público y aportar mi conocimiento al servicio de la administración, y sigo reforzando mi perfil con nuevas certificaciones y proyectos técnicos.
 
 Puedes acceder a él y verlo en la web haciendo click [aquí](https://peseta05.github.io/Mi-Portafolios).
