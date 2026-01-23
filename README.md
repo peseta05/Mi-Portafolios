@@ -19,7 +19,7 @@ Además, cuento con formación complementaria certificada, incluyendo:
 
 Actualmente, me encuentro **preparándome para las oposiciones de TAI (Técnico Auxiliar de Informática)**, con el objetivo de seguir desarrollándome profesionalmente en el ámbito público y aportar mi conocimiento al servicio de la administración, y sigo reforzando mi perfil con nuevas certificaciones y proyectos técnicos.
 
-Puedes acceder a él y verlo en la web haciendo click [aquí](https://peseta05.github.io/Mi-Portafolios).
+Puedes acceder a mi Portafolios y verlo en la web haciendo click [aquí](https://peseta05.github.io/Mi-Portafolios).
 
 Puedes acceder tambien a mi blog sobre Hacking Ético y verlo en la web haciendo click [aquí](https://unhackeretico-notes.blogspot.com/).
 
