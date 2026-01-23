@@ -21,9 +21,9 @@ Actualmente, me encuentro **preparándome para las oposiciones de TAI (Técnico 
 
 Puedes acceder a mi Portafolios y verlo en la web haciendo click [aquí](https://peseta05.github.io/Mi-Portafolios).
 
-Puedes acceder tambien a mi blog sobre Hacking Ético y verlo en la web haciendo click [aquí](https://unhackeretico-notes.blogspot.com/).
-
 A lo largo de mi formación y experiencia he comprendido que la clave no está solo en saber, si no en compartir, practicar y seguir evolucionando cada día.
+
+Puedes acceder tambien a mi blog sobre Hacking Ético y verlo en la web haciendo click [aquí](https://unhackeretico-notes.blogspot.com/).
 
 He creado este blog como un espacio donde comparto desde fundamentos teóricos explicados de forma clara, hasta pruebas de concepto con herramientas reales, CTFs resueltos paso a paso, recomendaciones de libros, recursos, buenas practicas y mucho más, todo esto con el objetivo de aprender y crecer en comunidad. Aquí no encontraras postureo solo conocimiento aplicado, pruebas reales y ganas de seguir creciendo.
 Mi objetivo con este proyecto es ayudar a quienes se inician en este fantástico mundo, canalizar esa curiosidad, crear una comunidad basada en el aprendizaje colaborativo, y al mismo tiempo construir mi marca como profesional del ámbito de la ciberseguridad.
