@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Informática Talarrubias | Reparación y Montaje de PC</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com">
+    <style>
+        /* Estilos Generales */
+        :root {
+            --primary: #007bff;
+            --secondary: #2c3e50;
+            --light: #f8f9fa;
+            --dark: #1a1a1a;
+            --accent: #00d4ff;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            line-height: 1.6;
+            color: var(--secondary);
+            scroll-behavior: smooth;
+        }
+
+        /* Hero Section */
+        header {
+            background: linear-gradient(135deg, #1a1a1a 0%, #2c3e50 100%);
+            color: white;
+            padding: 100px 20px;
+            text-align: center;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: auto;
+            overflow: hidden;
+            padding: 0 20px;
+        }
+
+        h1 { font-size: 3rem; margin-bottom: 10px; color: var(--accent); }
+        p.tagline { font-size: 1.2rem; margin-bottom: 30px; opacity: 0.9; }
+
+        .btn {
+            display: inline-block;
+            background: var(--primary);
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+
+        .btn:hover { background: var(--accent); color: var(--dark); }
+
+        /* Servicios */
+        #servicios { padding: 80px 0; background: white; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; }
+        
+        .card {
+            padding: 30px;
+            border: 1px solid #eee;
+            border-radius: 10px;
+            text-align: center;
+            transition: transform 0.3s;
+        }
+
+        .card:hover { transform: translateY(-10px); box-shadow: 0 10px 20px rgba(0,0,0,0.1); }
+        .card i { font-size: 3rem; color: var(--primary); margin-bottom: 15px; }
+
+        /* Sección Montajes */
+        #montajes { background: var(--light); padding: 80px 0; }
+        
+        /* Contacto */
+        #contacto { padding: 80px 0; text-align: center; background: var(--secondary); color: white; }
+        
+        form {
+            max-width: 600px;
+            margin: 30px auto;
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        input, textarea {
+            padding: 12px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 1rem;
+        }
+
+        footer { text-align: center; padding: 20px; background: #111; color: #777; font-size: 0.9rem; }
+
+        /* Responsivo */
+        @media (max-width: 768px) {
+            h1 { font-size: 2rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- HERO -->
+    <header>
+        <div class="container">
+            <h1>Informática Talarrubias</h1>
+            <p class="tagline">Reparaciones expertas y montajes a medida para llevar tu equipo al siguiente nivel.</p>
+            <a href="#contacto" class="btn">Solicitar Presupuesto Gratis</a>
+        </div>
+    </header>
+
+    <!-- SERVICIOS -->
+    <section id="servicios" class="container">
+        <h2 style="text-align: center; margin-bottom: 50px;">Nuestros Servicios</h2>
+        <div class="grid">
+            <div class="card">
+                <i class="fas fa-tools"></i>
+                <h3>Reparaciones</h3>
+                <p>Solucionamos fallos de hardware, pantallas rotas, problemas de carga y mucho más.</p>
+            </div>
+            <div class="card">
+                <i class="fas fa-desktop"></i>
+                <h3>PC a Medida</h3>
+                <p>Diseñamos el equipo ideal para ti: Gaming, Edición de Video o Trabajo de Oficina.</p>
+            </div>
+            <div class="card">
+                <i class="fas fa-microchip"></i>
+                <h3>Actualizaciones</h3>
+                <p>Mejora la velocidad de tu viejo PC con discos SSD y ampliaciones de memoria RAM.</p>
+            </div>
+            <div class="card">
+                <i class="fas fa-virus-slash"></i>
+                <h3>Limpieza y Virus</h3>
+                <p>Eliminación de malware y optimización del sistema para un rendimiento óptimo.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- POR QUÉ NOSOTROS -->
+    <section id="montajes">
+        <div class="container" style="text-align: center;">
+            <h2>Expertos en Montaje Gaming y Profesional</h2>
+            <p>Trabajamos con las mejores marcas del mercado para garantizar la máxima durabilidad y potencia.</p>
+            <p><strong>Configuraciones optimizadas pieza a pieza.</strong></p>
+        </div>
+    </section>
+
+    <!-- CONTACTO -->
+    <section id="contacto">
+        <div class="container">
+            <h2>¿Problemas con tu equipo?</h2>
+            <p>Cuéntanos qué necesitas y te responderemos en menos de 24 horas.</p>
+            
+            <form action="mailto:ignacio.1smr@gmail.com" method="post" enctype="text/plain">
+                <input type="text" placeholder="Tu Nombre" required>
+                <input type="email" placeholder="Tu Email" required>
+                <textarea rows="5" placeholder="¿En qué podemos ayudarte? (Ej: Mi PC no enciende / Quiero un PC para jugar)"></textarea>
+                <button type="submit" class="btn">Enviar Mensaje</button>
+            </form>
+
+            <div style="margin-top: 30px;">
+                <p><i class="fab fa-whatsapp"></i> WhatsApp: +34 680 863 266</p>
+                <p><i class="fas fa-map-marker-alt"></i> Talarrubias, Badajoz</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        &copy; 2024 Informática Talarrubias - Todos los derechos reservados.
+    </footer>
+
+</body>
+</html>
