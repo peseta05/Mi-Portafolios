@@ -23,10 +23,17 @@ a:hover {
 	font-family: arial;
 	text-decoration: none
 	}
-a:visited {
+
+a:active {
 	color: white;
 	font-family: arial;
 	text-decoration: underline
+	}
+
+a:visited {
+	color: white;
+	font-family: arial;
+	text-decoration: none
 	}
 	
 .ir-arriba {
