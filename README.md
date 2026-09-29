@@ -17,6 +17,6 @@ Además, cuento con formación complementaria certificada, incluyendo:
 - **MTA 98-367 Security Fundamentals (Microsoft).**
 - ...y otras formaciones que refuerzan mis conocimientos en entornos TI.
 
-Actualmente, me encuentro **preparándome para las oposiciones de TAI (Técnico Auxiliar de Informática)**, con el objetivo de seguir desarrollándome profesionalmente en el ámbito público y aportar mi conocimiento al servicio de la administración, y sigo reforzando mi perfil con nuevas certificaciones y proyectos técnicos (*puedes acceder a mi blog sobre Hacking Ético y verlo en la web haciendo click [aquí]*(https://unhackeretico-notes.blogspot.com/)).
+Actualmente, me encuentro **preparándome para las oposiciones de TAI (Técnico Auxiliar de Informática)**, con el objetivo de seguir desarrollándome profesionalmente en el ámbito público y aportar mi conocimiento al servicio de la administración, y sigo reforzando mi perfil con nuevas certificaciones y proyectos técnicos (*puedes acceder a mi blog sobre Hacking Ético y verlo en la web haciendo click* [**aquí**](https://unhackeretico-notes.blogspot.com/)).
 
 Puedes acceder a mi Portafolios y verlo en la web haciendo click [aquí](https://peseta05.github.io/Mi-Portafolios).
